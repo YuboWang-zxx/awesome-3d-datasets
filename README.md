@@ -33,9 +33,9 @@
 | DeepMVS                           | —                                                | —    | —                |       | [Link](https://phuang17.github.io/DeepMVS/mvs-synth.html)             | [Paper](https://arxiv.org/pdf/1804.00650)                             |
 | PointOdyssey                      | 3D Scenes                                        | —    | —                |       | [Link](https://pointodyssey.com/)                                     | [Paper](https://arxiv.org/pdf/2307.15055)                             |
 | Virtual KITTI                     | —                                                | —    | —                |       | [Link](https://europe.naverlabs.com/research/proxy-virtual-worlds/)   | [Paper](https://arxiv.org/pdf/2001.10773)                             |
-| Aria Synthetic Environments       | —                                                | —    | —                |       |                                                                         |                                                                       |
-| Aria Digital Twin                 | —                                                | —    | —                |       |                                                                         |                                                                       |
-| Objaverse                         | —                                                | —    | —                |       |                                                                         |                                                                       |
+| Aria Synthetic Environments       | —                                                | —    | —                |       | [Link](https://huggingface.co/datasets/projectaria/aria-synthetic-environments) |[Paper](https://arxiv.org/pdf/2403.13064)                                                                 |
+| Aria Digital Twin                 | —                                                | —    | —                |       | [Link](https://huggingface.co/datasets/projectaria/aria-digital-twin) |    [Paper](https://arxiv.org/pdf/2306.06362)                                                                   |
+| Objaverse                         | —                                                | —    | —                |       | [Link](https://huggingface.co/datasets/allenai/objaverse)             |     [Paper](https://arxiv.org/pdf/2304.00501)                                                                  |
 
 
 
