@@ -38,7 +38,8 @@
 | Virtual KITTI                     | —                                                | —    | —                |6D Pose Estimation, Object Detection, Benchmarking| [Link](https://gist.github.com/alwynmathew/114a060319d268d512ebe2e0b3781d0f?utm_source=chatgpt.com) | [Paper](https://arxiv.org/pdf/2001.10773)                             |
 | Aria Synthetic Environments       | —                                                | —    | —                |Open-vocabulary Detection, LiDAR Region Merging, Long-tailed Object Detection| [Link](https://facebookresearch.github.io/projectaria_tools/docs/open_datasets/aria_synthetic_environments_dataset/ase_download_dataset?utm_source=chatgpt.com) |[Paper](https://arxiv.org/pdf/2403.13064)                                                                 |
 | Aria Digital Twin                 | —                                                | —    | —                |3D Question Answering, Spatial Reasoning, Scene Understanding| [Link](https://facebookresearch.github.io/projectaria_tools/docs/open_datasets/aria_digital_twin_dataset?utm_source=chatgpt.com) |    [Paper](https://arxiv.org/pdf/2306.06362)                                                                   |
-| Objaverse                         | —                                                | —    | —                |3D Asset Collection, Annotation, Multimodal Learning| [Link](https://github.com/allenai/objaverse-xl) |[Paper](https://arxiv.org/pdf/2304.00501)|
+| Objaverse                         | —                                                | —    | —                |3D Asset Collection, Annotation, Multimodal Learning| [Link](https://github.com/allenai/objaverse-xl)|[Paper](https://arxiv.org/pdf/2304.00501)|
+
 
 
 
