@@ -1,6 +1,24 @@
 # Awesome 3d Datasets
 
-[[toc]]
+## 🌟 Overview
+
+- [Awesome 3d Datasets](#awesome-3d-datasets)
+  - [🌟 Overview](#-overview)
+  - [📄 Citation](#-citation)
+  - [📚 3D Datasets Summary](#-3d-datasets-summary)
+    - [👤 Human](#-human)
+    - [🎯 Object](#-object)
+    - [🏙️ Scene](#️-scene)
+    - [📊 Modalities of 3D datasets](#-modalities-of-3d-datasets)
+  - [⚒️ Applications](#️-applications)
+    - [🔄 3D Reconstruct](#-3d-reconstruct)
+    - [✨ 3D Generation](#-3d-generation)
+    - [🎬 Video Generation](#-video-generation)
+    - [🌐 World Models](#-world-models)
+
+## 📄 Citation
+
+> Coming soon
 
 ## 📚 3D Datasets Summary
 
@@ -12,7 +30,7 @@
 | [H3WB](https://arxiv.org/pdf/2211.15692)      | RGB, 2D+3D Whole-body Keypoints, Camera Pose | 2022 | Human Body  | 3D Pose Estimation                                           |      | [Github](https://github.com/wholebody3d/wholebody3d) |
 | [FaceScape](https://arxiv.org/pdf/2003.13989) | FaceScape                                    | 2020 | Human Face  | Classification, Segmentation, Reconstruction, Completion, Recognition |      | [Github](https://github.com/zhuhao-nju/facescape)    |
 
-### 🧩 Object
+### 🎯 Object
 
 | Dataset                                                      | Modality                                                     | Year | Granularity | Tasks                                                        | Size | Site                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ----------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
@@ -58,7 +76,7 @@
 | [Semantic3D](https://isprs-annals.copernicus.org/articles/IV-1-W1/91/2017/isprs-annals-IV-1-W1-91-2017.pdf) | Point Cloud + Classification                                 | 2016 | Scene         | Point Cloud Classification, Semantic Segmentation            |      | [Link](http://www.semantic3d.net/)                           |
 | [SceneNN / ObjectNN](https://www.saikit.org/static/projects/sceneNN/home/pdf/dataset_3dv16.pdf) | RGB-D Indoor Scenes                                          | 2016 | Indoor Scene  | Multi-view Fusion, 3D Reconstruction, Semantic Segmentation  |      | [Link](https://hkust-vgd.github.io/scenenn/)                 |
 
-### Modalities of 3D datasets 
+### 📊 Modalities of 3D datasets 
 
 > ✅ indicates supported modality
 > 
@@ -109,7 +127,7 @@
 
 ## ⚒️ Applications
 
-### **3D Reconstruct**
+### 🔄 3D Reconstruct
 
 | Title | Year | Paper | Website | Code |
 | :--- | :--- | :--- | :--- | :--- |
@@ -123,7 +141,7 @@
 | StreamVGGT: Streaming 4D Visual Geometry Transformer | 2025 | [📄 Paper](https://arxiv.org/abs/2507.11539) | - | - |
 | MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second | 2025 | [📄 Paper](https://arxiv.org/abs/2507.10065) | - | - |
 
-### **3D Generation**
+### ✨ 3D Generation
 
 | Title | Year | Paper | Website | Code |
 | :--- | :--- | :--- | :--- | :--- |
@@ -136,7 +154,7 @@
 | Structured 3D Latents for Scalable and Versatile 3D Generation | 2025 | [📄 Paper](https://openaccess.thecvf.com/CVPR2025) | - | - |
 | 3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation | 2024 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_3D-SceneDreamer_Text-Driven_3D-Consistent_Scene_Generation_CVPR_2024_paper.pdf) | - | - |
 
-### **Video Generation**
+### 🎬 Video Generation
 
 | Title | Year | Paper | Website | Code |
 | :--- | :--- | :--- | :--- | :--- |
@@ -154,7 +172,7 @@
 | Tora: Trajectory-oriented Diffusion Transformer for Video Generation | 2025 | [📄 Paper](https://arxiv.org/abs/2407.21705) | - | - |
 | CamI2V: Camera-Controlled Image-to-Video Diffusion Model | 2024 | [📄 Paper](https://arxiv.org/abs/2410.15957) | - | - |
 
-### **World Models**
+### 🌐 World Models
 
 | Title | Year | Paper | Website | Code |
 | :--- | :--- | :--- | :--- | :--- |
