@@ -56,4 +56,51 @@
 | [Semantic3D](https://isprs-annals.copernicus.org/articles/IV-1-W1/91/2017/isprs-annals-IV-1-W1-91-2017.pdf) | Point Cloud + Classification                                 | 2016 | Scene         | Point Cloud Classification, Semantic Segmentation            |      | [Link](http://www.semantic3d.net/)                           |
 | [SceneNN / ObjectNN](https://www.saikit.org/static/projects/sceneNN/home/pdf/dataset_3dv16.pdf) | RGB-D Indoor Scenes                                          | 2016 | Indoor Scene  | Multi-view Fusion, 3D Reconstruction, Semantic Segmentation  |      | [Link](https://hkust-vgd.github.io/scenenn/)                 |
 
+### Modalities of 3D datasets 
+
+> ✅ indicates supported modality
+> 
 > 📝 *Modality includes available signals like RGB, Depth, Pose, Segmentation, Flow, Mesh, Action...*
+
+
+| Dataset                        | RGB-D | Point Cloud | Mesh | Multi-view | Implicit Field |
+|--------------------------------|-------|-------------|------|------------|----------------|
+| GigaHands                      | ❌    | ❌          | ✅   | ✅         | ✅             |
+| InteriorGS                     | ❌    | ❌          | ❌   | ✅         | ✅             |
+| WildRGB-D                       | ✅    | ✅          | ❌   | ❌         | ❌             |
+| Aria Synthetic Environments    | ❌    | ✅          | ❌   | ❌         | ❌             |
+| AnyHome                        | ❌    | ❌          | ✅   | ❌         | ✅             |
+| DL3DV-10K                      | ❌    | ❌          | ❌   | ❌         | ✅             |
+| PointOdyssey                   | ❌    | ✅          | ❌   | ❌         | ❌             |
+| Aria Digital Twin              | ✅    | ❌          | ❌   | ❌         | ❌             |
+| Objaverse                      | ❌    | ❌          | ✅   | ❌         | ✅             |
+| DIVA-360                       | ❌    | ❌          | ✅   | ✅         | ✅             |
+| H3WB                           | ❌    | ❌          | ❌   | ❌         | ❌             |
+| Kubric                         | ❌    | ✅          | ❌   | ✅         | ❌             |
+| Amazon Berkeley Objects        | ❌    | ❌          | ✅   | ✅         | ❌             |
+| Fusion 360 Gallery Dataset     | ❌    | ❌          | ✅   | ❌         | ❌             |
+| CO3Dv2                         | ❌    | ✅          | ❌   | ✅         | ❌             |
+| HyperSim                       | ✅    | ❌          | ✅   | ❌         | ❌             |
+| Habitat 2.0                    | ✅    | ❌          | ❌   | ❌         | ❌             |
+| StrobeNet                      | ❌    | ✅          | ❌   | ✅         | ✅             |
+| Virtual KITTI                  | ✅    | ❌          | ❌   | ✅         | ❌             |
+| RELLIS-3D                      | ❌    | ✅          | ❌   | ❌         | ❌             |
+| FaceScape                      | ❌    | ❌          | ✅   | ❌         | ❌             |
+| A Large Dataset of Object Scans| ✅    | ✅          | ❌   | ❌         | ❌             |
+| 3D-FRONT                       | ❌    | ❌          | ✅   | ❌         | ❌             |
+| 3D-FUTURE                      | ❌    | ❌          | ✅   | ❌         | ❌             |
+| Structured3D                   | ✅    | ❌          | ❌   | ❌         | ❌             |
+| Mapillary                      | ✅    | ❌          | ❌   | ❌         | ❌             |
+| ABC                            | ❌    | ❌          | ✅   | ❌         | ✅             |
+| BlendedMVS                     | ❌    | ❌          | ❌   | ✅         | ❌             |
+| Replica                        | ❌    | ❌          | ✅   | ❌         | ❌             |
+| RealEstate10K                  | ❌    | ❌          | ❌   | ✅         | ❌             |
+| MegaDepth                      | ✅    | ❌          | ❌   | ✅         | ❌             |
+| DeepMVS                        | ❌    | ❌          | ❌   | ✅         | ❌             |
+| ScanNet                        | ✅    | ❌          | ❌   | ❌         | ❌             |
+| Thingi10K                      | ❌    | ❌          | ✅   | ❌         | ✅             |
+| Semantic3D                     | ❌    | ✅          | ❌   | ❌         | ❌             |
+| SceneNN / ObjectNN             | ✅    | ❌          | ❌   | ❌         | ❌             |
+| ShapeNet                       | ❌    | ❌          | ✅   | ❌         | ❌             |
+| ModelNet                       | ❌    | ❌          | ✅   | ❌         | ❌             |
+| PASCAL3D+                      | ❌    | ❌          | ✅   | ❌         | ❌             |
