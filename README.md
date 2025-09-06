@@ -1,5 +1,7 @@
 # Awesome 3d Datasets
 
+[[toc]]
+
 ## 📚 3D Datasets Summary
 
 ### 👤 Human
@@ -104,3 +106,65 @@
 | ShapeNet                       | ❌    | ❌          | ✅   | ❌         | ❌             |
 | ModelNet                       | ❌    | ❌          | ✅   | ❌         | ❌             |
 | PASCAL3D+                      | ❌    | ❌          | ✅   | ❌         | ❌             |
+
+## ⚒️ Applications
+
+### **3D Reconstruct**
+
+| Title | Year | Paper | Website | Code |
+| :--- | :--- | :--- | :--- | :--- |
+| DUSt3R: Geometric 3D Vision Made Easy | 2024 | [📄 Paper](https://arxiv.org/abs/2312.14132) | - | [💾 Code](https://github.com/naver/dust3r) |
+| VGGT: Visual Geometry Grounded Transformer | 2025 | [📄 Paper](https://arxiv.org/abs/2503.11651) | - | - |
+| $\pi^3$: Scalable Permutation-Equivariant Visual Geometry Learning | 2025 | [📄 Paper](https://arxiv.org/abs/2507.13347) | - | - |
+| MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds | 2024 | [📄 Paper](https://arxiv.org/abs/2412.06974) | - | - |
+| MoGe-2: Accurate Monocular Geometry with Metric Scale and Sharp Details | 2025 | [📄 Paper](https://arxiv.org/abs/2507.02546) | - | - |
+| MASt3R: Grounding Image Matching in 3D | 2024 | [📄 Paper](https://arxiv.org/abs/2406.09756) | - | - |
+| Mickey: Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences | 2024 | [📄 Paper](https://arxiv.org/abs/2404.06337) | - | - |
+| StreamVGGT: Streaming 4D Visual Geometry Transformer | 2025 | [📄 Paper](https://arxiv.org/abs/2507.11539) | - | - |
+| MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second | 2025 | [📄 Paper](https://arxiv.org/abs/2507.10065) | - | - |
+
+### **3D Generation**
+
+| Title | Year | Paper | Website | Code |
+| :--- | :--- | :--- | :--- | :--- |
+| DreamFusion: Text-to-3D using 2D Diffusion | 2022 | [📄 Paper](https://arxiv.org/abs/2209.14988) | - | - |
+| Magic3D: High-Resolution Text-to-3D Content Creation | 2023 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Magic3D_High-Resolution_Text-to-3D_Content_Creation_CVPR_2023_paper.pdf) | - | - |
+| DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation | 2024 | [📄 Paper](https://arxiv.org/abs/2309.16653) | [🌍 Website](https://dreamgaussian.github.io/) | [💾 Code](https://github.com/dreamgaussian/dreamgaussian) |
+| DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation | 2025 | [📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-73202-7_10) | [🌍 Website](https://dreammesh.github.io/) | - |
+| Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data | 2025 | [📄 Paper](https://openaccess.thecvf.com/CVPR2025) | - | - |
+| MVDream: Multi-view Diffusion for 3D Generation | 2024 | [📄 Paper](https://arxiv.org/abs/2308.16512) | - | - |
+| Structured 3D Latents for Scalable and Versatile 3D Generation | 2025 | [📄 Paper](https://openaccess.thecvf.com/CVPR2025) | - | - |
+| 3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation | 2024 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_3D-SceneDreamer_Text-Driven_3D-Consistent_Scene_Generation_CVPR_2024_paper.pdf) | - | - |
+
+### **Video Generation**
+
+| Title | Year | Paper | Website | Code |
+| :--- | :--- | :--- | :--- | :--- |
+| CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer | 2024 | [📄 Paper](https://arxiv.org/abs/2408.06072) | - | - |
+| Wan: Open and Advanced Large-Scale Video Generative Models | 2025 | [📄 Paper](https://arxiv.org/abs/2503.20314) | - | - |
+| Lumiere: A Space-Time Diffusion Model for Video Generation | 2024 | [📄 Paper](https://arxiv.org/abs/2401.12945) | - | - |
+| Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning | 2024 | [📄 Paper](https://arxiv.org/abs/2311.10709) | - | - |
+| Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets | 2023 | [📄 Paper](https://arxiv.org/abs/2311.15127) | - | - |
+| 3D-Aware Video Generation | 2023 | [📄 Paper](https://arxiv.org/abs/2206.14797) | - | - |
+| World-consistent Video Diffusion with Explicit 3D Modeling | 2024 | [📄 Paper](https://arxiv.org/abs/2412.01821) | - | - |
+| IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos | 2025 | [📄 Paper](https://arxiv.org/abs/2504.19165) | - | - |
+| Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling | 2025 | [📄 Paper](https://arxiv.org/abs/2507.07982) | - | - |
+| Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals | 2025 | [📄 Paper](https://arxiv.org/abs/2505.19386) | - | - |
+| PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation | 2024 | [📄 Paper](https://arxiv.org/abs/2409.18964) | - | - |
+| Tora: Trajectory-oriented Diffusion Transformer for Video Generation | 2025 | [📄 Paper](https://arxiv.org/abs/2407.21705) | - | - |
+| CamI2V: Camera-Controlled Image-to-Video Diffusion Model | 2024 | [📄 Paper](https://arxiv.org/abs/2410.15957) | - | - |
+
+### **World Models**
+
+| Title | Year | Paper | Website | Code |
+| :--- | :--- | :--- | :--- | :--- |
+| Learning to Simulate Complex Physics with Graph Networks | 2020 | [📄 Paper](https://arxiv.org/abs/2002.09405) | - | - |
+| Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids | 2019 | [📄 Paper](https://arxiv.org/abs/1810.01566) | - | - |
+| Learning Mesh-Based Simulation with Graph Networks | 2021 | [📄 Paper](https://arxiv.org/abs/2010.03409) | - | - |
+| SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation | 2021 | [📄 Paper](https://arxiv.org/abs/2011.07215) | - | [💾 Code](https://github.com/Xingyu-Lin/softgym) |
+| 3D Gaussian Splatting for Real-Time Radiance Field Rendering | 2023 | [📄 Paper](https://arxiv.org/abs/2308.04079) | - | [💾 Code](https://github.com/graphdeco-inria/gaussian-splatting) |
+| Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis | 2023 | [📄 Paper](https://arxiv.org/abs/2308.09713) | - | - |
+| 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering | 2024 | [📄 Paper](https://arxiv.org/abs/2310.08528) | - | - |
+| Gaussian Splatting SLAM | 2024 | [📄 Paper](https://arxiv.org/abs/2312.06741) | - | - |
+| Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians | 2024 | [📄 Paper](https://arxiv.org/abs/2405.16544) | - | - |
+| ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation | 2025 | [📄 Paper](https://arxiv.org/abs/2506.23126) | - | - |
