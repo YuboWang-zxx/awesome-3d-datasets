@@ -129,11 +129,11 @@
 
 ### 🔄 3D Reconstruct
 
-| Title | Year | Paper | Website | Code |
-| :--- | :--- | :--- | :--- | :--- |
-| DUSt3R: Geometric 3D Vision Made Easy | 2024 | [📄 Paper](https://arxiv.org/abs/2312.14132) | [🌍 Website](https://europe.naverlabs.com/research/publications/dust3r-geometric-3d-vision-made-easy/) | [💾 Code](https://github.com/naver/dust3r) |
-| VGGT: Visual Geometry Grounded Transformer | 2025 | [📄 Paper](https://arxiv.org/abs/2503.11651) | [🌍 Website](https://vgg-t.github.io/) | [💾 Code](https://github.com/facebookresearch/vggt) <br> [😊 HuggingFace](https://huggingface.co/spaces/facebook/vggt) |
-| $\pi^3$: Scalable Permutation-Equivariant Visual Geometry Learning | 2025 | [📄 Paper](https://arxiv.org/abs/2507.13347) | - | - |
+| Title | Year | Paper | Website | Code | HuggingFace
+| :--- | :--- | :--- | :--- | :--- | :--
+| DUSt3R: Geometric 3D Vision Made Easy | 2024 | [📄 Paper](https://arxiv.org/abs/2312.14132) | [🌍 Website](https://europe.naverlabs.com/research/publications/dust3r-geometric-3d-vision-made-easy/) | [💾 Code](https://github.com/naver/dust3r) | -
+| VGGT: Visual Geometry Grounded Transformer | 2025 | [📄 Paper](https://arxiv.org/abs/2503.11651) | [🌍 Website](https://vgg-t.github.io/) | [💾 Code](https://github.com/facebookresearch/vggt) | [😊 HuggingFace](https://huggingface.co/spaces/facebook/vggt)
+| $\pi^3$: Scalable Permutation-Equivariant Visual Geometry Learning | 2025 | [📄 Paper](https://arxiv.org/abs/2507.13347) | [🌍 Website](https://yyfz.github.io/pi3/) | [💾 Code](https://github.com/yyfz/Pi3) | [😊 HuggingFace](https://huggingface.co/spaces/yyfz233/Pi3)
 | MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds | 2024 | [📄 Paper](https://arxiv.org/abs/2412.06974) | - | - |
 | MoGe-2: Accurate Monocular Geometry with Metric Scale and Sharp Details | 2025 | [📄 Paper](https://arxiv.org/abs/2507.02546) | - | - |
 | MASt3R: Grounding Image Matching in 3D | 2024 | [📄 Paper](https://arxiv.org/abs/2406.09756) | - | - |
