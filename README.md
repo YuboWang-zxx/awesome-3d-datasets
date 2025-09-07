@@ -131,7 +131,7 @@
 
 | Title | Year | Paper | Website | Code |
 | :--- | :--- | :--- | :--- | :--- |
-| DUSt3R: Geometric 3D Vision Made Easy | 2024 | [📄 Paper](https://arxiv.org/abs/2312.14132) | - | [💾 Code](https://github.com/naver/dust3r) |
+| DUSt3R: Geometric 3D Vision Made Easy | 2024 | [📄 Paper](https://arxiv.org/abs/2312.14132) | [🌍 Website](https://europe.naverlabs.com/research/publications/dust3r-geometric-3d-vision-made-easy/) | [💾 Code](https://github.com/naver/dust3r) |
 | VGGT: Visual Geometry Grounded Transformer | 2025 | [📄 Paper](https://arxiv.org/abs/2503.11651) | - | - |
 | $\pi^3$: Scalable Permutation-Equivariant Visual Geometry Learning | 2025 | [📄 Paper](https://arxiv.org/abs/2507.13347) | - | - |
 | MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds | 2024 | [📄 Paper](https://arxiv.org/abs/2412.06974) | - | - |
