@@ -138,8 +138,8 @@
 | MoGe-2: Accurate Monocular Geometry with Metric Scale and Sharp Details | 2025 | [📄 Paper](https://arxiv.org/abs/2507.02546) | - | - | - |
 | MASt3R: Grounding Image Matching in 3D | 2024 | [📄 Paper](https://arxiv.org/abs/2406.09756) | [🌍 Website](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/) | [💾 Code](https://github.com/naver/mast3r) | [😊 HuggingFace](https://huggingface.co/spaces/naver/MASt3R)
 | Mickey: Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences | 2024 | [📄 Paper](https://arxiv.org/abs/2404.06337) | [🌍 Website](https://nianticlabs.github.io/mickey/) | [💾 Code](https://github.com/nianticlabs/mickey) | -
-| StreamVGGT: Streaming 4D Visual Geometry Transformer | 2025 | [📄 Paper](https://arxiv.org/abs/2507.11539) | - | - |
-| MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second | 2025 | [📄 Paper](https://arxiv.org/abs/2507.10065) | - | - |
+| StreamVGGT: Streaming 4D Visual Geometry Transformer | 2025 | [📄 Paper](https://arxiv.org/abs/2507.11539) | [🌍 Website](https://wzzheng.net/StreamVGGT/) | [💾 Code](https://github.com/wzzheng/StreamVGGT) | [😊 HuggingFace](https://huggingface.co/spaces/lch01/StreamVGGT)
+| MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second | 2025 | [📄 Paper](https://arxiv.org/abs/2507.10065) | [🌍 Website](https://chenguolin.github.io/projects/MoVieS/) | [💾 Code](https://github.com/chenguolin/MoVieS) | -
 
 ### ✨ 3D Generation
 
