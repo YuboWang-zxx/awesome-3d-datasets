@@ -160,17 +160,17 @@
 | :--- | :--- | :--- | :--- | :--- | :--
 | CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer | 2024 | [📄 Paper](https://arxiv.org/abs/2408.06072) | [🌍 Website](https://yzy-thu.github.io/CogVideoX-demo/) | [💾 Code](https://github.com/zai-org/CogVideo) | [😊 HuggingFace](https://huggingface.co/spaces/zai-org/CogVideoX-5B-Space)
 | Wan: Open and Advanced Large-Scale Video Generative Models | 2025 | [📄 Paper](https://arxiv.org/abs/2503.20314) | [🌍 Website](https://wan.video/) | [💾 Code](https://github.com/Wan-Video/Wan2.1)| [😊 HuggingFace](https://huggingface.co/Wan-AI)
-| Lumiere: A Space-Time Diffusion Model for Video Generation | 2024 | [📄 Paper](https://arxiv.org/abs/2401.12945) | - | - |
-| Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning | 2024 | [📄 Paper](https://arxiv.org/abs/2311.10709) | - | - |
-| Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets | 2023 | [📄 Paper](https://arxiv.org/abs/2311.15127) | - | - |
-| 3D-Aware Video Generation | 2023 | [📄 Paper](https://arxiv.org/abs/2206.14797) | - | - |
-| World-consistent Video Diffusion with Explicit 3D Modeling | 2024 | [📄 Paper](https://arxiv.org/abs/2412.01821) | - | - |
-| IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos | 2025 | [📄 Paper](https://arxiv.org/abs/2504.19165) | - | - |
-| Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling | 2025 | [📄 Paper](https://arxiv.org/abs/2507.07982) | - | - |
-| Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals | 2025 | [📄 Paper](https://arxiv.org/abs/2505.19386) | - | - |
-| PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation | 2024 | [📄 Paper](https://arxiv.org/abs/2409.18964) | - | - |
-| Tora: Trajectory-oriented Diffusion Transformer for Video Generation | 2025 | [📄 Paper](https://arxiv.org/abs/2407.21705) | - | - |
-| CamI2V: Camera-Controlled Image-to-Video Diffusion Model | 2024 | [📄 Paper](https://arxiv.org/abs/2410.15957) | - | - |
+| Lumiere: A Space-Time Diffusion Model for Video Generation | 2024 | [📄 Paper](https://arxiv.org/abs/2401.12945) | [🌍 Website](https://lumiere-video.github.io/) | [💾 Code](https://github.com/lumiere-video/lumiere-video.github.io) | -
+| Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning | 2024 | [📄 Paper](https://arxiv.org/abs/2311.10709) | [🌍 Website](https://emu-video.metademolab.com/) | - | -
+| Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets | 2023 | [📄 Paper](https://arxiv.org/abs/2311.15127) | [🌍 Website](https://sv4d20.github.io/) | [💾 Code](https://github.com/Stability-AI/generative-models) | [😊 HuggingFace](https://huggingface.co/stabilityai/sv4d2.0)
+| 3D-Aware Video Generation | 2023 | [📄 Paper](https://arxiv.org/abs/2206.14797) | [🌍 Website](https://sherwinbahmani.github.io/3dvidgen/) | [💾 Code](https://github.com/sherwinbahmani/3dvideogeneration/) | -
+| World-consistent Video Diffusion with Explicit 3D Modeling | 2024 | [📄 Paper](https://arxiv.org/abs/2412.01821) | [🌍 Website](https://zqh0253.github.io/wvd/) | - | -
+| IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos | 2025 | [📄 Paper](https://arxiv.org/abs/2504.19165) | [🌍 Website](https://y-u-a-n-l-i.github.io/projects/IM-Portrait/) | - | -
+| Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling | 2025 | [📄 Paper](https://arxiv.org/abs/2507.07982) | [🌍 Website](https://geometryforcing.github.io/) | - | - 
+| Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals | 2025 | [📄 Paper](https://arxiv.org/abs/2505.19386) | [🌍 Website](https://force-prompting.github.io/) | [💾 Code](https://github.com/brown-palm/force-prompting) | -
+| PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation | 2024 | [📄 Paper](https://arxiv.org/abs/2409.18964) | [🌍 Website](https://stevenlsw.github.io/physgen/) | [💾 Code](https://github.com/stevenlsw/physgen) | -
+| Tora: Trajectory-oriented Diffusion Transformer for Video Generation | 2025 | [📄 Paper](https://arxiv.org/abs/2407.21705) | [🌍 Website](https://ali-videoai.github.io/tora_video/) | [💾 Code](https://github.com/alibaba/Tora) | [😊 HuggingFace](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora)
+| CamI2V: Camera-Controlled Image-to-Video Diffusion Model | 2024 | [📄 Paper](https://arxiv.org/abs/2410.15957) | [🌍 Website](https://zgctroy.github.io/CamI2V/) | [💾 Code](https://github.com/ZGCTroy/CamI2V) | [😊 HuggingFace](https://huggingface.co/MuteApo/CamI2V/tree/main)
 
 ### 🌐 World Models
 
