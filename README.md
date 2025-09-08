@@ -149,7 +149,7 @@
 | Magic3D: High-Resolution Text-to-3D Content Creation | 2023 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Magic3D_High-Resolution_Text-to-3D_Content_Creation_CVPR_2023_paper.pdf) | [🌍 Website](https://research.nvidia.com/labs/dir/magic3d/) | - | -
 | DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation | 2024 | [📄 Paper](https://arxiv.org/abs/2309.16653) | [🌍 Website](https://dreamgaussian.github.io/) | [💾 Code](https://github.com/dreamgaussian/dreamgaussian) | [😊 HuggingFace](https://huggingface.co/spaces/jiawei011/dreamgaussian)
 | DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation | 2025 | [📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-73202-7_10) | [🌍 Website](https://dreammesh.github.io/) | - | -
-| Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data | 2025 | [📄 Paper](https://openaccess.thecvf.com/CVPR2025) |  | - |
+| Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data | 2025 | [📄 Paper](https://arxiv.org/abs/2503.21694) |  | - |
 | MVDream: Multi-view Diffusion for 3D Generation | 2024 | [📄 Paper](https://arxiv.org/abs/2308.16512) | - | - |
 | Structured 3D Latents for Scalable and Versatile 3D Generation | 2025 | [📄 Paper](https://openaccess.thecvf.com/CVPR2025) | - | - |
 | 3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation | 2024 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_3D-SceneDreamer_Text-Driven_3D-Consistent_Scene_Generation_CVPR_2024_paper.pdf) | - | - |
