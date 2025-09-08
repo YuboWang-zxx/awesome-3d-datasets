@@ -158,8 +158,8 @@
 
 | Title | Year | Paper | Website | Code | HuggingFace
 | :--- | :--- | :--- | :--- | :--- | :--
-| CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer | 2024 | [📄 Paper](https://arxiv.org/abs/2408.06072) | - | - |
-| Wan: Open and Advanced Large-Scale Video Generative Models | 2025 | [📄 Paper](https://arxiv.org/abs/2503.20314) | - | - |
+| CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer | 2024 | [📄 Paper](https://arxiv.org/abs/2408.06072) | [🌍 Website](https://yzy-thu.github.io/CogVideoX-demo/) | [💾 Code](https://github.com/zai-org/CogVideo) | [😊 HuggingFace](https://huggingface.co/spaces/zai-org/CogVideoX-5B-Space)
+| Wan: Open and Advanced Large-Scale Video Generative Models | 2025 | [📄 Paper](https://arxiv.org/abs/2503.20314) | [🌍 Website](https://wan.video/) | [💾 Code](https://github.com/Wan-Video/Wan2.1)| [😊 HuggingFace](https://huggingface.co/Wan-AI)
 | Lumiere: A Space-Time Diffusion Model for Video Generation | 2024 | [📄 Paper](https://arxiv.org/abs/2401.12945) | - | - |
 | Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning | 2024 | [📄 Paper](https://arxiv.org/abs/2311.10709) | - | - |
 | Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets | 2023 | [📄 Paper](https://arxiv.org/abs/2311.15127) | - | - |
