@@ -146,7 +146,7 @@
 | Title | Year | Paper | Website | Code | HuggingFace
 | :--- | :--- | :--- | :--- | :--- | :--
 | DreamFusion: Text-to-3D using 2D Diffusion | 2022 | [📄 Paper](https://arxiv.org/abs/2209.14988) | [🌍 Website](https://dreamfusion3d.github.io/) | - | -
-| Magic3D: High-Resolution Text-to-3D Content Creation | 2023 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Magic3D_High-Resolution_Text-to-3D_Content_Creation_CVPR_2023_paper.pdf) | [🌍 Website](https://research.nvidia.com/labs/dir/magic3d/) | - | -
+| Magic3D: High-Resolution Text-to-3D Content Creation | 2023 | [📄 Paper](https://arxiv.org/abs/2211.10440) | [🌍 Website](https://research.nvidia.com/labs/dir/magic3d/) | - | -
 | DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation | 2024 | [📄 Paper](https://arxiv.org/abs/2309.16653) | [🌍 Website](https://dreamgaussian.github.io/) | [💾 Code](https://github.com/dreamgaussian/dreamgaussian) | [😊 HuggingFace](https://huggingface.co/spaces/jiawei011/dreamgaussian)
 | DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation | 2025 | [📄 Paper](https://arxiv.org/abs/2409.07454) | [🌍 Website](https://dreammesh.github.io/) | - | -
 | Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data | 2025 | [📄 Paper](https://arxiv.org/abs/2503.21694) | [🌍 Website](https://theericma.github.io/TriplaneTurbo/) | [💾 Code](https://github.com/theEricMa/TriplaneTurbo) | [😊 HuggingFace](https://huggingface.co/spaces/ZhiyuanthePony/TriplaneTurbo)
