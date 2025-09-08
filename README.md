@@ -176,13 +176,13 @@
 
 | Title | Year | Paper | Website | Code | HuggingFace
 | :--- | :--- | :--- | :--- | :--- | :--
-| Learning to Simulate Complex Physics with Graph Networks | 2020 | [📄 Paper](https://arxiv.org/abs/2002.09405) | - | - |
-| Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids | 2019 | [📄 Paper](https://arxiv.org/abs/1810.01566) | - | - |
-| Learning Mesh-Based Simulation with Graph Networks | 2021 | [📄 Paper](https://arxiv.org/abs/2010.03409) | - | - |
-| SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation | 2021 | [📄 Paper](https://arxiv.org/abs/2011.07215) | - | [💾 Code](https://github.com/Xingyu-Lin/softgym) |
-| 3D Gaussian Splatting for Real-Time Radiance Field Rendering | 2023 | [📄 Paper](https://arxiv.org/abs/2308.04079) | - | [💾 Code](https://github.com/graphdeco-inria/gaussian-splatting) |
-| Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis | 2023 | [📄 Paper](https://arxiv.org/abs/2308.09713) | - | - |
-| 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering | 2024 | [📄 Paper](https://arxiv.org/abs/2310.08528) | - | - |
-| Gaussian Splatting SLAM | 2024 | [📄 Paper](https://arxiv.org/abs/2312.06741) | - | - |
-| Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians | 2024 | [📄 Paper](https://arxiv.org/abs/2405.16544) | - | - |
-| ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation | 2025 | [📄 Paper](https://arxiv.org/abs/2506.23126) | - | - |
+| Learning to Simulate Complex Physics with Graph Networks | 2020 | [📄 Paper](https://arxiv.org/abs/2002.09405) | [🌍 Website](https://sites.google.com/view/learning-to-simulate/) | [💾 Code](https://github.com/google-deepmind/deepmind-research/tree/master/learning_to_simulate) | - 
+| Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids | 2019 | [📄 Paper](https://arxiv.org/abs/1810.01566) | [🌍 Website](http://dpi.csail.mit.edu/) | [💾 Code](https://github.com/YunzhuLi/DPI-Net) | -
+| Learning Mesh-Based Simulation with Graph Networks | 2021 | [📄 Paper](https://arxiv.org/abs/2010.03409) | [🌍 Website](https://sites.google.com/view/meshgraphnets) | [💾 Code](https://github.com/google-deepmind/deepmind-research/tree/master/meshgraphnets) | - 
+| SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation | 2021 | [📄 Paper](https://arxiv.org/abs/2011.07215) | [🌍 Website](https://sites.google.com/view/softgym) | [💾 Code](https://github.com/Xingyu-Lin/softgym) | - 
+| 3D Gaussian Splatting for Real-Time Radiance Field Rendering | 2023 | [📄 Paper](https://arxiv.org/abs/2308.04079) | [🌍 Website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) | [💾 Code](https://github.com/graphdeco-inria/gaussian-splatting) | - 
+| Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis | 2023 | [📄 Paper](https://arxiv.org/abs/2308.09713) | [🌍 Website](https://dynamic3dgaussians.github.io/) | [💾 Code](https://github.com/JonathonLuiten/Dynamic3DGaussians) | - 
+| 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering | 2024 | [📄 Paper](https://arxiv.org/abs/2310.08528) | [🌍 Website](https://guanjunwu.github.io/4dgs/) | [💾 Code](https://github.com/hustvl/4DGaussians) | - 
+| Gaussian Splatting SLAM | 2024 | [📄 Paper](https://arxiv.org/abs/2312.06741) | [🌍 Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/) | [💾 Code](https://github.com/muskie82/MonoGS) | -
+| Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians | 2024 | [📄 Paper](https://arxiv.org/abs/2405.16544) | - | [💾 Code](https://github.com/google-research/Splat-SLAM) | -
+| ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation | 2025 | [📄 Paper](https://arxiv.org/abs/2506.23126) | [🌍 Website](https://suninghuang19.github.io/particleformer_page/) | - | -
