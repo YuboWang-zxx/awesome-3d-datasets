@@ -156,8 +156,8 @@
 
 ### 🎬 Video Generation
 
-| Title | Year | Paper | Website | Code |
-| :--- | :--- | :--- | :--- | :--- |
+| Title | Year | Paper | Website | Code | HuggingFace
+| :--- | :--- | :--- | :--- | :--- | :--
 | CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer | 2024 | [📄 Paper](https://arxiv.org/abs/2408.06072) | - | - |
 | Wan: Open and Advanced Large-Scale Video Generative Models | 2025 | [📄 Paper](https://arxiv.org/abs/2503.20314) | - | - |
 | Lumiere: A Space-Time Diffusion Model for Video Generation | 2024 | [📄 Paper](https://arxiv.org/abs/2401.12945) | - | - |
@@ -174,8 +174,8 @@
 
 ### 🌐 World Models
 
-| Title | Year | Paper | Website | Code |
-| :--- | :--- | :--- | :--- | :--- |
+| Title | Year | Paper | Website | Code | HuggingFace
+| :--- | :--- | :--- | :--- | :--- | :--
 | Learning to Simulate Complex Physics with Graph Networks | 2020 | [📄 Paper](https://arxiv.org/abs/2002.09405) | - | - |
 | Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids | 2019 | [📄 Paper](https://arxiv.org/abs/1810.01566) | - | - |
 | Learning Mesh-Based Simulation with Graph Networks | 2021 | [📄 Paper](https://arxiv.org/abs/2010.03409) | - | - |
