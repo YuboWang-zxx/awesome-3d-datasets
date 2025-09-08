@@ -143,11 +143,11 @@
 
 ### ✨ 3D Generation
 
-| Title | Year | Paper | Website | Code |
-| :--- | :--- | :--- | :--- | :--- |
-| DreamFusion: Text-to-3D using 2D Diffusion | 2022 | [📄 Paper](https://arxiv.org/abs/2209.14988) | - | - |
-| Magic3D: High-Resolution Text-to-3D Content Creation | 2023 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Magic3D_High-Resolution_Text-to-3D_Content_Creation_CVPR_2023_paper.pdf) | - | - |
-| DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation | 2024 | [📄 Paper](https://arxiv.org/abs/2309.16653) | [🌍 Website](https://dreamgaussian.github.io/) | [💾 Code](https://github.com/dreamgaussian/dreamgaussian) |
+| Title | Year | Paper | Website | Code | HuggingFace
+| :--- | :--- | :--- | :--- | :--- | :--
+| DreamFusion: Text-to-3D using 2D Diffusion | 2022 | [📄 Paper](https://arxiv.org/abs/2209.14988) | [🌍 Website](https://dreamfusion3d.github.io/) | - | -
+| Magic3D: High-Resolution Text-to-3D Content Creation | 2023 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Magic3D_High-Resolution_Text-to-3D_Content_Creation_CVPR_2023_paper.pdf) | [🌍 Website](https://research.nvidia.com/labs/dir/magic3d/) | - | -
+| DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation | 2024 | [📄 Paper](https://arxiv.org/abs/2309.16653) | [🌍 Website](https://dreamgaussian.github.io/) | [💾 Code](https://github.com/dreamgaussian/dreamgaussian) | [😊 HuggingFace](https://huggingface.co/spaces/jiawei011/dreamgaussian)
 | DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation | 2025 | [📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-73202-7_10) | [🌍 Website](https://dreammesh.github.io/) | - |
 | Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data | 2025 | [📄 Paper](https://openaccess.thecvf.com/CVPR2025) | - | - |
 | MVDream: Multi-view Diffusion for 3D Generation | 2024 | [📄 Paper](https://arxiv.org/abs/2308.16512) | - | - |
