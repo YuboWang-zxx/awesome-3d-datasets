@@ -97,45 +97,48 @@
 
 | Dataset                        | RGB-D | Point Cloud | Mesh | Multi-view | Implicit Field |
 |--------------------------------|-------|-------------|------|------------|----------------|
-| GigaHands                      | ❌    | ❌          | ✅   | ✅         | ✅             |
-| InteriorGS                     | ❌    | ❌          | ❌   | ✅         | ✅             |
-| WildRGB-D                       | ✅    | ✅          | ❌   | ❌         | ❌             |
-| Aria Synthetic Environments    | ❌    | ✅          | ❌   | ❌         | ❌             |
-| AnyHome                        | ❌    | ❌          | ✅   | ❌         | ✅             |
-| DL3DV-10K                      | ❌    | ❌          | ❌   | ❌         | ✅             |
-| PointOdyssey                   | ❌    | ✅          | ❌   | ❌         | ❌             |
-| Aria Digital Twin              | ✅    | ❌          | ❌   | ❌         | ❌             |
-| Objaverse                      | ❌    | ❌          | ✅   | ❌         | ✅             |
-| DIVA-360                       | ❌    | ❌          | ✅   | ✅         | ✅             |
-| H3WB                           | ❌    | ❌          | ❌   | ❌         | ❌             |
-| Kubric                         | ❌    | ✅          | ❌   | ✅         | ❌             |
+| GigaHands                      | ❌    | ❌          | ✅   | ✅         |❌              |
+| InteriorGS                     |  ✅   | ❌          | ❌   | ✅         |❌              |
+| WildRGB-D                       | ✅    | ✅          | ❌   |  ✅        | ❌            |
+| Aria Synthetic Environments    |  ✅   |  ❌         | ❌   | ❌         | ❌             |
+| DL3DV-10K                      | ❌    | ❌          | ❌   |  ✅         |  ❌           |
+| PointOdyssey                   | ❌    |    ❌      |  ✅   |    ✅      | ❌             |
+| Aria Digital Twin              | ✅    | ❌          | ❌   | ✅         | ❌             |
+| ScanNet++                      | ✅    | ✅          | ✅   | ✅         | ❌             |
+| Objaverse                      | ❌    | ❌          | ✅   | ❌         |  ❌            |
+| DIVA-360                       | ❌    | ❌          |❌   | ✅          | ❌             |
+| H3WB                           | ❌    | ❌          | ❌   |  ✅         | ❌             |
+| Kubric                         | ✅     | ✅          | ✅    | ✅         | ❌             |
 | Amazon Berkeley Objects        | ❌    | ❌          | ✅   | ✅         | ❌             |
+| HM3D                           | ❌    | ❌          | ✅   | ❌         | ❌             |
 | Fusion 360 Gallery Dataset     | ❌    | ❌          | ✅   | ❌         | ❌             |
 | CO3Dv2                         | ❌    | ✅          | ❌   | ✅         | ❌             |
-| HyperSim                       | ✅    | ❌          | ✅   | ❌         | ❌             |
-| Habitat 2.0                    | ✅    | ❌          | ❌   | ❌         | ❌             |
+| HyperSim                       | ✅    | ❌          | ❌    | ✅        | ❌             |
+| Habitat 2.0                    |  ❌    | ❌          | ✅   | ❌         | ❌             |
 | StrobeNet                      | ❌    | ✅          | ❌   | ✅         | ✅             |
-| Virtual KITTI                  | ✅    | ❌          | ❌   | ✅         | ❌             |
+| Virtual KITTI 2                | ✅    | ❌          | ❌   |   ❌        | ❌             |
 | RELLIS-3D                      | ❌    | ✅          | ❌   | ❌         | ❌             |
-| FaceScape                      | ❌    | ❌          | ✅   | ❌         | ❌             |
+| FaceScape                      | ❌    | ❌          | ✅   | ✅        | ❌             |
 | A Large Dataset of Object Scans| ✅    | ✅          | ❌   | ❌         | ❌             |
 | 3D-FRONT                       | ❌    | ❌          | ✅   | ❌         | ❌             |
 | 3D-FUTURE                      | ❌    | ❌          | ✅   | ❌         | ❌             |
-| Structured3D                   | ✅    | ❌          | ❌   | ❌         | ❌             |
-| Mapillary                      | ✅    | ❌          | ❌   | ❌         | ❌             |
-| ABC                            | ❌    | ❌          | ✅   | ❌         | ✅             |
-| BlendedMVS                     | ❌    | ❌          | ❌   | ✅         | ❌             |
+| Structured3D                   | ✅    | ❌          | ✅   | ✅         | ❌             |
+| Mapillary                      | ❌    | ❌          | ❌   | ✅         | ❌             |
+| ScanObjectNN                   | ❌    | ✅          | ❌   |   ❌       | ❌             |
+| ABC                            | ❌    | ❌          | ✅   | ❌         | ❌             |
+| BlendedMVS                     |  ✅    | ❌          | ✅   | ✅        | ❌             |
 | Replica                        | ❌    | ❌          | ✅   | ❌         | ❌             |
 | RealEstate10K                  | ❌    | ❌          | ❌   | ✅         | ❌             |
 | MegaDepth                      | ✅    | ❌          | ❌   | ✅         | ❌             |
-| DeepMVS                        | ❌    | ❌          | ❌   | ✅         | ❌             |
-| ScanNet                        | ✅    | ❌          | ❌   | ❌         | ❌             |
-| Thingi10K                      | ❌    | ❌          | ✅   | ❌         | ✅             |
+| DeepMVS                        | ✅    | ❌          | ❌   |  ❌        | ❌             |
+| ScanNet                        | ✅    | ✅          | ✅   | ✅         | ❌             |
+| Matterport3D                   | ✅    | ❌          | ✅   | ❌         | ❌             |
+| Thingi10K                      | ❌    | ❌          | ✅   | ❌         | ❌             |
 | Semantic3D                     | ❌    | ✅          | ❌   | ❌         | ❌             |
-| SceneNN / ObjectNN             | ✅    | ❌          | ❌   | ❌         | ❌             |
+| SceneNN / ObjectNN             | ✅    | ✅          | ✅   | ✅         | ❌             |
+| A Large Dataset of Object Scans| ❌    | ✅          | ✅   | ❌         | ❌             |
+| Virtual KITTI                  | ✅    | ❌          | ❌   | ❌         | ❌             |
 | ShapeNet                       | ❌    | ❌          | ✅   | ❌         | ❌             |
-| ModelNet                       | ❌    | ❌          | ✅   | ❌         | ❌             |
-| PASCAL3D+                      | ❌    | ❌          | ✅   | ❌         | ❌             |
 
 ## ⚒️ Applications
 
