@@ -104,7 +104,11 @@
 |--------------------------------|-------|-------------|------|------------|----------------|
 | GigaHands                      | ❌    | ❌          | ✅   | ✅         |❌              |
 | InteriorGS                     |  ✅   | ❌          | ❌   | ✅         |❌              |
-| WildRGB-D                       | ✅    | ✅          | ❌   |  ✅        | ❌            |
+| HPSketch                       | ❌    | ❌          | ❌   | ❌         | ❌             |
+| CBF                            | ❌    | ❌          | ❌   | ❌         | ❌             |
+| Parametric 20000               | ❌    | ✅          | ✅   | ❌         | ❌             |
+| WildRGB-D                      | ✅    | ✅          | ❌   |  ✅        | ❌             |
+| BRep2seq                       | ❌    | ❌          | ❌   | ❌         | ❌             |
 | Aria Synthetic Environments    |  ✅   |  ❌         | ❌   | ❌         | ❌             |
 | DL3DV-10K                      | ❌    | ❌          | ❌   |  ✅         |  ❌           |
 | PointOdyssey                   | ❌    |    ❌      |  ✅   |    ✅      | ❌             |
@@ -127,6 +131,7 @@
 | A Large Dataset of Object Scans| ✅    | ✅          | ❌   | ❌         | ❌             |
 | 3D-FRONT                       | ❌    | ❌          | ✅   | ❌         | ❌             |
 | 3D-FUTURE                      | ❌    | ❌          | ✅   | ❌         | ❌             |
+| SketchGraphs                   | ❌    | ❌          | ❌   | ❌         | ❌             |
 | Structured3D                   | ✅    | ❌          | ✅   | ✅         | ❌             |
 | Mapillary                      | ❌    | ❌          | ❌   | ✅         | ❌             |
 | ScanObjectNN                   | ❌    | ✅          | ❌   |   ❌       | ❌             |
