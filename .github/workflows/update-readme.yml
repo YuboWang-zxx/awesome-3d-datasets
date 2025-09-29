@@ -2,8 +2,8 @@ name: Update README Last Updated
 
 on:
   push:
-    branches: [ main ]   # ⚠️ 改成你主要用的分支，比如 master
-  workflow_dispatch:     # 手动触发
+    branches: [ main ] 
+  workflow_dispatch:     # 允许手动触发
 
 jobs:
   update-readme:
@@ -15,12 +15,7 @@ jobs:
       - name: Update README date
         run: |
           today=$(date +"%Y-%m-%d")
-          # 如果已经有 Last updated 就替换，否则就在最后 "# Awesome 3d Datasets" 前插入
-          if grep -q "^_Last updated:" README.md; then
-            sed -i "s/^_Last updated:.*/_Last updated: ${today}_/" README.md
-          else
-            sed -i "/^# Awesome 3d Datasets/i _Last updated: ${today}_" README.md
-          fi
+          sed -i "s|<!--LAST_UPDATED-->.*|<!--LAST_UPDATED--> ${today}|" README.md
 
       - name: Commit changes
         run: |
