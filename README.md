@@ -211,3 +211,10 @@
 | Gaussian Splatting SLAM | 2024 | [📄 Paper](https://arxiv.org/abs/2312.06741) | [🌍 Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/) | [💾 Code](https://github.com/muskie82/MonoGS) | -
 | Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians | 2024 | [📄 Paper](https://arxiv.org/abs/2405.16544) | - | [💾 Code](https://github.com/google-research/Splat-SLAM) | -
 | ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation | 2025 | [📄 Paper](https://arxiv.org/abs/2506.23126) | [🌍 Website](https://suninghuang19.github.io/particleformer_page/) | - | -
+
+## 👥 Contributors
+
+We welcome contributions! If you'd like to contribute, please submit a pull request or open an issue.  
+
+### Project Contributors
+- [Hongyang Du](https://hongyang-du.github.io)  
