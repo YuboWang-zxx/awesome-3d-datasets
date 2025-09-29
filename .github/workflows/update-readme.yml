@@ -1,0 +1,31 @@
+name: Update README Last Updated
+
+on:
+  push:
+    branches: [ main ]   # ⚠️ 改成你主要用的分支，比如 master
+  workflow_dispatch:     # 手动触发
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README date
+        run: |
+          today=$(date +"%Y-%m-%d")
+          # 如果已经有 Last updated 就替换，否则就在最后 "# Awesome 3d Datasets" 前插入
+          if grep -q "^_Last updated:" README.md; then
+            sed -i "s/^_Last updated:.*/_Last updated: ${today}_/" README.md
+          else
+            sed -i "/^# Awesome 3d Datasets/i _Last updated: ${today}_" README.md
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "chore: update README last updated date" || echo "No changes to commit"
+          git push
