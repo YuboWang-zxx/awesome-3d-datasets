@@ -1,6 +1,6 @@
 # Awesome 3d Datasets
 
-Last updated: <!--LAST_UPDATED-->
+Last updated: <!--LAST_UPDATED--> 2025-09-29
 
 ## 🌟 Overview
 
