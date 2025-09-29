@@ -1,7 +1,6 @@
 # Awesome 3d Datasets
 
-_Last updated: <!--LAST_UPDATED-->_
-
+Last updated: <!--LAST_UPDATED-->
 
 ## 🌟 Overview
 
