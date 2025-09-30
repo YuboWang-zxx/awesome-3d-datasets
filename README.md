@@ -219,4 +219,5 @@ Last updated: <!--LAST_UPDATED--> 2025-09-29
 We welcome contributions! If you'd like to contribute, please submit a pull request or open an issue.  
 
 ### Project Contributors
-- [Hongyang Du](https://hongyang-du.github.io)  
+- [Hongyang Du](https://hongyang-du.github.io)
+- [Yubo Wang (GitHub)](https://github.com/YuboWang-zxx)
