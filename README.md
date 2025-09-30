@@ -220,4 +220,4 @@ We welcome contributions! If you'd like to contribute, please submit a pull requ
 
 ### Project Contributors
 - [Hongyang Du](https://hongyang-du.github.io)
-- [Yubo Wang (GitHub)](https://github.com/YuboWang-zxx)
+- [Yubo Wang](https://github.com/YuboWang-zxx)
